@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-I was unable to connect the "value changed" to the tip calculating function. 
+I was unable to connect the "value changed" to the tip calculating function. I was able to add the action using an alternative method not mentioned in the tutorial video. 
 
 ## License
 
