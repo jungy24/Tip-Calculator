@@ -56,4 +56,4 @@ I was unable to connect the "value changed" to the tip calculating function. I w
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-0
+
